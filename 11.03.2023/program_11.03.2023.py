@@ -24,7 +24,9 @@ for wynik in dane:
          os.system("cls")
          y.append(wynik)
 
+print(f"x={x}\ny={y}")
+
+# Nowy Program
 a= [2,5,7,9] 
 b=[4,8,18,27]
 
-print(f"x={x}\ny={y}")
