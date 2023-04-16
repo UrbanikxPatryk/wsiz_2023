@@ -1,3 +1,4 @@
+# Zadanie A
 s = ['aa', 'a', 'c', 'bb']
 def SPR(s):
 
@@ -12,7 +13,7 @@ def SPR(s):
 
 
 
-
+# zadnie B 
 def SPR2(w):
 
     wyg=set()
